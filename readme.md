@@ -1,6 +1,6 @@
 # Voice IVR
 
-Navigate a IVR (phone tree) using keys or speech-to-text
+ IVR (phone tree) using keys or speech-to-text
 
 ## Pre-requisites
 
